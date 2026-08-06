@@ -11,6 +11,7 @@ Project Vault members will receive access to all eligible tutorial projects as t
 | Project                 | Engine Version | Related Tutorials                                        | Project Status                      |
 | ----------------------- | -------------- | -------------------------------------------------------- | ----------------------------------- |
 | Realistic Pickup System | UE 5.8         | [Core System](https://youtu.be/W856GJgqM2U) · [Polishing & New Features](https://youtu.be/6zGQFsnKCeY) · [Item Inspection](https://youtu.be/OWD3cMA5EV0) | Updated through the latest tutorial |
+| Chaos Sportbike | UE5.8 | [Rigging](https://youtu.be/PowVzZPRnFA) . [UE5 Setup](https://youtu.be/J1SH1EcFiEM) . [Tuning & Suspension](https://youtu.be/OkrC4tpRhGo) | Updated through the latest tutorial |
 
 The **Related Tutorials** column shows which videos and follow-up tutorials are included in each project. More projects will be added gradually.
 
