@@ -17,6 +17,7 @@ Project Vault members will receive access to all eligible tutorial projects as t
 | Robot Arm | UE5.8 | [Whole Robot Arm Series](https://www.youtube.com/playlist?list=PLZ4gVJKjt3LQ3T3gySTCX7KlQta-gD9XV) | Updated through the latest tutorial |
 | Telekinesis System | UE5.8 | [Build a Telekinesis System in UE5](https://youtu.be/9YBTTCOwFuM) | Updated through the latest tutorial |
 | Turn In Place (Root Motion) | UE5.8 | [Turn In Place Root Motion](https://youtu.be/KtQoM_QtCmw) | Updated through the latest tutorial |
+| TV Main Menu | UE5.8 | [Interactive Horror Menu](https://youtu.be/CDf-5lp4yxQ) | Updated through the latest tutorial |
 
 The **Related Tutorials** column shows which videos and follow-up tutorials are included in each project. More projects will be added gradually.
 
