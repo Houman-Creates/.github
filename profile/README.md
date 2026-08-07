@@ -2,8 +2,6 @@
 
 This page lists the Unreal Engine projects currently available to **Project Vault** members.
 
-Since the membership has just launched, I’m preparing and adding my previous tutorial projects one by one. Each project requires additional work to organize, test and document before it can be shared properly, so the complete archive will take some time to build.
-
 Project Vault members will receive access to all eligible tutorial projects as they are added, including new projects created for future tutorials. Download links are shared through members-only YouTube posts.
 
 ## Available Projects
