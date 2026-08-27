@@ -6,11 +6,11 @@ Project Vault members will receive access to all eligible tutorial projects as t
 
 ## Available Projects
 
-| Project                 | Engine Version | Related Tutorials                                        | Project Status                      |
+| Project                 | Engine Version | Related Tutorials                                        | Details & Updates                      |
 | ----------------------- | -------------- | -------------------------------------------------------- | ----------------------------------- |
 | Door Interaction System | UE5.8 | [Build Better Doors in Unreal Engine 5](https://youtu.be/CR8Qy6dmCAU) | Updated through the latest tutorial |
 | Realistic Pickup System | UE5.8         | [Core System](https://youtu.be/W856GJgqM2U) · [Polishing & New Features](https://youtu.be/6zGQFsnKCeY) · [Item Inspection](https://youtu.be/OWD3cMA5EV0) | Updated through the latest tutorial |
-| Chaos Sportbike | UE5.8 | [Whole Sportbike Series](https://www.youtube.com/playlist?list=PLBt62vuzWb-8) | Updated through the latest tutorial |
+| Chaos Sportbike | UE5.8 | [Whole Sportbike Series](https://www.youtube.com/playlist?list=PLBt62vuzWb-8) | Project Details & Changelog |
 | Game Ready Vehicle System | UE5.8 | [Whole Vehicle Series](https://www.youtube.com/playlist?list=PLZ4gVJKjt3LRH_bHOaDgLuu-FMYLKBfOy) |  Updated through the latest tutorial but lights are dropped |
 | Niagara Torch System | UE5.8 | [Whole Torch Series](https://www.youtube.com/playlist?list=PLZ4gVJKjt3LQ3T3gySTCX7KlQta-gD9XV) | Updated through the latest tutorial |
 | Robot Arm | UE5.8 | [Whole Robot Arm Series](https://www.youtube.com/playlist?list=PLZ4gVJKjt3LQ3T3gySTCX7KlQta-gD9XV) | Updated through the latest tutorial |
