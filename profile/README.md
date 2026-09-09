@@ -40,3 +40,5 @@ After becoming a Project Vault member:
 This post contains the download links for every available project. It is updated whenever a new project or version is released, so you can always return to the same post.
 
 Please check the attached image to see exactly what the post looks like.
+
+![PROJECT DIRECTORY](images/project-vault-post.png)
