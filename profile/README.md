@@ -26,3 +26,17 @@ The **Related Tutorials** column shows which videos and follow-up tutorials are 
 🎬 [Houman Creates on YouTube](https://www.youtube.com/@HoumanCreates)
 
 🔒 [Join the Project Vault Membership](https://www.youtube.com/channel/UCB1r8NTUASWOScq7CLjJ32Q/join)
+
+## 🔐 HOW TO ACCESS THE PROJECT VAULT DOWNLOADS
+
+After becoming a Project Vault member:
+
+1. Go to my YouTube channel.
+2. Open the **Posts** tab.
+3. Scroll down until you find the members-only post titled:
+
+🔒 **PROJECT VAULT — PROJECT DIRECTORY**
+
+This post contains the download links for every available project. It is updated whenever a new project or version is released, so you can always return to the same post.
+
+Please check the attached image to see exactly what the post looks like.
