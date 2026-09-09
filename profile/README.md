@@ -42,3 +42,31 @@ This post contains the download links for every available project. It is updated
 Please check the attached image to see exactly what the post looks like.
 
 ![PROJECT DIRECTORY](images/project-vault-post.png)
+
+## 📜 Project Vault License
+
+Project Vault files are provided exclusively to **Houman Creates – Project Vault members**.
+
+### Permitted Use
+
+You may:
+
+* Use and modify these files in personal or commercial projects.
+* Use the included systems in games, videos, demos, and portfolio work.
+
+You may not:
+
+* Resell, redistribute, share, or publicly upload the original files.
+* Share the private download links with anyone else.
+* Include the files in asset packs, templates, courses, or other downloadable projects.
+* Claim the included systems, rigs, or custom animations as your own work.
+
+### Asset Ownership and Credits
+
+All third-party 3D models and assets are properly credited. Full ownership of these assets remains with their original creators, and Houman Creates does not claim ownership of them. Their use remains subject to the licenses provided by their respective creators.
+
+My contribution is the rigging, Unreal Engine implementation, gameplay systems, Blueprints, and custom-made animations. These original elements are created and owned by **Houman Creates** and are provided under this Project Vault license.
+
+Membership grants permission to use these files under the terms above—it does not transfer ownership or grant permission to redistribute them.
+
+© Houman Creates. All rights reserved.
