@@ -8,6 +8,7 @@ Project Vault members will receive access to all eligible tutorial projects as t
 
 | Project                 | Engine Version | Related Tutorials                                        | Details & Updates                      |
 | ----------------------- | -------------- | -------------------------------------------------------- | ----------------------------------- |
+| Chaos Tank System | UE5.8 | [Whole Tank Series](https://youtube.com/playlist?list=PLDtMN4Kd2xg8&si=vQYqPP8FapLPWblm) |  Updated through the latest tutorial | 
 | Door Interaction System | UE5.8 | [Build Better Doors in Unreal Engine 5](https://youtu.be/CR8Qy6dmCAU) | Updated through the latest tutorial |
 | Realistic Pickup System | UE5.8         | [Core System](https://youtu.be/W856GJgqM2U) · [Polishing & New Features](https://youtu.be/6zGQFsnKCeY) · [Item Inspection](https://youtu.be/OWD3cMA5EV0) | Updated through the latest tutorial |
 | Chaos Sportbike | UE5.8 | [Whole Sportbike Series](https://www.youtube.com/playlist?list=PLBt62vuzWb-8) | Updated through the latest tutorial |
